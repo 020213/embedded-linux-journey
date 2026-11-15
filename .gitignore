@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.obj
+*.out
+a.out
+*.so
+*.a
+*.d
+*.exe
+
+# 编辑器与临时文件
+.vscode/
+*.swp
+*~
+core
+core.*
+
+# 日志
+*.log
